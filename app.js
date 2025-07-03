@@ -21,7 +21,7 @@ while (chute != numeroSecreto) {
 }
 // uma outra maneira de escrever sem if e else:
 // let palavraTentativa = tentativas > 1 ? "tentativas" : "tentativa";
-// alert("ACERTOU! Muito bem! o número secreto é " + numeroSecreto + " e você acertou com " + tentativas + palavraYentativa);
+// alert("ACERTOU! Muito bem! o número secreto é " + numeroSecreto + " e você acertou com " + tentativas + palavraTentativa);
 // (se tiver mais de uma tentativa = "tentativas". se não, "tentativa".)
 if (tentativas > 1) {
     alert("ACERTOU! Muito bem! o número secreto é " + numeroSecreto + " e você acertou com " + tentativas + " tentativas.");
